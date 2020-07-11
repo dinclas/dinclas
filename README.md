@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! Glad to see you here 😉
+
+#### 🔎 About me
+I started coding when I was twelve, it's been a real passion since then, high & lows included.
+
+I'm currently a software engineer at [VTEX](https://vtex.com/) and I'm coursing computer science 👨🏻‍💻
+
+### 📱 How to reach me
+[LinkedIn](https://www.linkedin.com/in/lcrmj/)
 
 <!--
 **lcrmj/lcrmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
