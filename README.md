@@ -9,6 +9,9 @@ I'm currently a software engineer at [VTEX](https://vtex.com/) and I'm coursing 
 ### 📱 How to reach me
 [LinkedIn](https://www.linkedin.com/in/lcrmj/)
 
+
+![lcrmj's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=lcrmj&show_icons=true&theme=radical)
+![lcrmj's github stats](https://github-readme-stats.vercel.app/api?username=lcrmj&show_icons=true&theme=radical)
 <!--
 **lcrmj/lcrmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
