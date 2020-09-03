@@ -1,4 +1,4 @@
-<div align="center" style="text-align: center">
+<div align="left">
   
 <h3>Hi! Glad to see you here 😉</h3>
 <img src="https://github.com/lcrmj/lcrmj/blob/master/23wE.gif?raw=true" align="right"/>
