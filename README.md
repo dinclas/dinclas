@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Hi! Glad to see you here 😉
 <img src="https://github.com/lcrmj/lcrmj/blob/master/23wE.gif?raw=true"></img>
 
@@ -9,5 +11,6 @@ I'm currently a software engineer at [VTEX](https://vtex.com/) and I'm coursing 
 ### 📱 How to reach me
 [LinkedIn](https://www.linkedin.com/in/lcrmj/)
 
+</div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lcrmj&show_icons=true&theme=radical&count_private=true&show_icons=true" align="right"/>
 <img src="https://github-readme-stats.vercel.app/api?username=lcrmj&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
