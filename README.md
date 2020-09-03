@@ -1,7 +1,7 @@
 <div align="center">
   
 ### Hi! Glad to see you here 😉
-<img src="https://github.com/lcrmj/lcrmj/blob/master/23wE.gif?raw=true"></img>
+<img src="https://github.com/lcrmj/lcrmj/blob/master/23wE.gif?raw=true" align="right"/>
 
 #### 🔎 About me
 I started coding when I was twelve, it's been a real passion since then, high & lows included.
