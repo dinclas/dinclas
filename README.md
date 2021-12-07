@@ -6,7 +6,7 @@
 <h3>🔎 About me</h3>
 I started coding when I was twelve, it's been a real passion since then, high & lows included.
 
-I'm currently a software engineer at [VTEX](https://vtex.com/) and coursing computer science 👨🏻‍💻
+I'm currently a software development engineer at Amazon.
 
 <h3>📱 How to reach me</h3>
 
