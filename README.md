@@ -12,4 +12,4 @@ I'm currently a Software Engineer at Hired.
 
 [LinkedIn](https://www.linkedin.com/in/lcrmj/)
   
-[Email](claudio@claudin.dev)
+[Email](mailto:claudio@claudin.dev)
