@@ -11,4 +11,5 @@ I'm currently a Software Engineer at Hired.
 <h3>📱 How to reach me</h3>
 
 [LinkedIn](https://www.linkedin.com/in/lcrmj/)
+  
 [Email](claudio@claudin.dev)
