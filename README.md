@@ -11,7 +11,4 @@ I'm currently a Software Engineer at Hired.
 <h3>📱 How to reach me</h3>
 
 [LinkedIn](https://www.linkedin.com/in/lcrmj/)
-
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinclas&show_icons=true&theme=radical&count_private=true&show_icons=true" align="right"/>
-<img src="https://github-readme-stats.vercel.app/api?username=dinclas&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
+[Email](claudio@claudin.dev)
